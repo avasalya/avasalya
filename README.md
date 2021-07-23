@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I work in the fields of machine/deep learning, robotics (manipulations, planning) and human-robot interactions. Please visit my portfolio to know about past work experiences, skills, projects, and publications.
+I work in the fields of machine/deep learning, computer vision, robotics (manipulations, planning) and human-robot interactions. Please visit my portfolio to know about past work experiences, skills, projects, and publications.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avasalya&hide=stars&theme=onedark&repo=avasalya.github.io)](https://avasalya.github.io)
 
-[![Ashesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=avasalya&include_all_commits=false&theme=onedark&count_private=true&show_icons=true)](https://github.com/avasalya/github-readme-stats)
+<!-- [![Ashesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=avasalya&include_all_commits=false&theme=onedark&count_private=true&show_icons=true)](https://github.com/avasalya/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avasalya&theme=onedark&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/avasalya/github-readme-stats)
 
